@@ -1,0 +1,5 @@
+res://default_env.tres
+res://src/levels/FirstLevel.tscn
+res://src/destruction/parent_material.gdshader
+res://src/destruction/Destructible.gd
+res://src/character/wizard.gd
